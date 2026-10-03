@@ -270,5 +270,5 @@ PornScore/
 
 ## 六、许可
 
-[ISC](LICENSE)。
+[MIT](LICENSE)。
 使用即代表你已知晓并同意文首的**安全与法律声明**。
